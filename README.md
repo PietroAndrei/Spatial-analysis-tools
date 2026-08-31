@@ -1,5 +1,5 @@
 # Spatial-analysis-tools
-Software and methodologies for spatial omics analysis
+List of recent software and/or methodologies for spatial omics analysis
 
 ## Co-localization analysis
 - PANORAMIC [https://doi.org/10.1093/bioinformatics/btag546]
