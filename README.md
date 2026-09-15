@@ -14,6 +14,7 @@ List of recent software and/or methodologies for spatial omics analysis
 - FDPMining [https://doi.org/10.1038/s42003-026-09923-1]
 - sainsc [https://onlinelibrary.wiley.com/doi/10.1002/smtd.202401123]
 - Tessera [https://doi.org/10.1101/2025.01.17.633630]
+- Spartan [https://doi.org/10.64898/2026.02.18.706570]
 
 ## Functional cell characterization
 - MintFlow [https://doi.org/10.1101/2025.06.24.661094]
