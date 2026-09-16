@@ -28,3 +28,7 @@ List of recent software and/or methodologies for spatial omics analysis
 - TENGU [https://doi.org/10.64898/2026.04.24.720489]
 - SMURF [https://doi.org/10.1038/s41467-026-74464-4]
 - fastCNV [https://doi.org/10.1101/2025.10.22.683855]
+- N-Orbit [https://doi.org/10.1038/s41467-026-73561-8]
+
+## Dimensionality reduction
+- wSIR [https://doi.org/10.1038/s41467-026-76871-z]
