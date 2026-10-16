@@ -6,6 +6,7 @@ List of recent software and/or methodologies for spatial omics analysis
 - Neighborhood Product Co-localization (NPC) score [https://doi.org/10.64898/2026.02.09.704806]
 - NiCo [https://doi.org/10.1038/s41467-024-54973-w]
 - spatialFDA [https://doi.org/10.64898/2026.04.13.718197]
+- COSTE [https://www.biorxiv.org/content/10.64898/2026.05.26.727847v1.full#sec-23]
 
 ## Spatial clustering
 - ClustSIGNAL [https://doi.org/10.64898/2025.11.30.691081]
