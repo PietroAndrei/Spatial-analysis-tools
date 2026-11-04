@@ -2,7 +2,7 @@
 List of recent software and/or methodologies for spatial omics analysis
 
 ## Co-localization analysis
-- PANORAMIC [https://doi.org/10.1093/bioinformatics/btag546]
+- [PANORAMIC](https://doi.org/10.1093/bioinformatics/btag546)
 - Neighborhood Product Co-localization (NPC) score [https://doi.org/10.64898/2026.02.09.704806]
 - NiCo [https://doi.org/10.1038/s41467-024-54973-w]
 - spatialFDA [https://doi.org/10.64898/2026.04.13.718197]
@@ -33,3 +33,8 @@ List of recent software and/or methodologies for spatial omics analysis
 
 ## Dimensionality reduction
 - wSIR [https://doi.org/10.1038/s41467-026-76871-z]
+
+## Image processing
+- Harpy [https://doi.org/10.1093/bioinformatics/btag122]
+- CellViT++ [https://doi.org/10.1016/j.cmpb.2025.109206]
+- LazySlide [https://doi.org/10.1038/s41592-026-03044-7]
