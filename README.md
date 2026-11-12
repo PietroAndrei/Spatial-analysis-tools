@@ -40,8 +40,10 @@ List of recent software and/or methodologies for spatial omics analysis
 - [LazySlide](https://doi.org/10.1038/s41592-026-03044-7)
 
 ## Datasets
-- [SurGen](https://doi.org/10.1093/gigascience/giaf086)
-- [STHELAR](https://doi.org/10.1038/s41597-026-06937-6)
-- [IMMUcan](10.1016/j.crmeth.2025.101170)
-- [MOSAIC](https://doi.org/10.1186/s13073-026-01791-y)
-- [SAHA](https://www.biorxiv.org/content/10.1101/2025.06.16.658716v3)
+- [SurGen - CRC H&E](https://doi.org/10.1093/gigascience/giaf086)
+- [STHELAR - Xenium+H&E](https://doi.org/10.1038/s41597-026-06937-6)
+- [IMMUcan - pancancer IMC+mIF](10.1016/j.crmeth.2025.101170)
+- [MOSAIC - pancancer multiomics+spatial](https://doi.org/10.1186/s13073-026-01791-y)
+- [SAHA - panorgan spatial multimodal atlas](https://www.biorxiv.org/content/10.1101/2025.06.16.658716v3)
+- [Xenium CRC dataset](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2208)
+- [CosMx CRC dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
